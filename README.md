@@ -1,3 +1,3 @@
 # Demo java calculator app
 
-App that evaluates expressions in java.
+App that evaluates expressions in java...
